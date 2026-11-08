@@ -2,7 +2,7 @@
     <img width="200" src="gato.png">
 </p>
 
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello < Developers/ > width = 30px> </h1>
 <p align='center'>
 </p>
 
